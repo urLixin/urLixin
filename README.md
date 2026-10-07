@@ -1,5 +1,8 @@
 # 💫 About Me:
-Hi, I'm WLixin, a 17-year-old Networking Specialist, System Administrator, and Minecraft Developer.<br><br>I have 4+ years of experience in networking and hold a Cisco Networking Certificate. Alongside networking, I’ve worked as a System Administrator for 3+ years, managing Linux servers, infrastructure, and hosting environments.<br><br>I previously built and managed my own hosting infrastructure, focusing on performance, reliability, and optimized server environments.<br><br>I’m also highly experienced in Minecraft development, with 5+ years of experience creating plugins and optimizing servers for performance and scalability.
+Hi, I'm WLixin, a 17-year-old learning Networking and experienced in System Administration, and Minecraft Developer.
+I have 1.5+ years of experience in networking and hold a Cisco Networking Certificate. Alongside networking, I’ve worked as a System Administrator for 2+ years, managing Linux servers, infrastructure, and hosting environments.
+I previously built and managed my own hosting infrastructure, focusing on performance, reliability, and optimized server environments.
+I’m also highly experienced in Minecraft development, with 3+ years of experience creating plugins and optimizing servers for performance and scalability.
 
 
 ## 🌐 Socials:
